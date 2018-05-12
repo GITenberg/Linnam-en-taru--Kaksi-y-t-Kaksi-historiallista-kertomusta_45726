@@ -1,0 +1,37 @@
+_repo: Linnam-en-taru--Kaksi-y-t-Kaksi-historiallista-kertomusta_45726
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brummer, Uno
+    aliases:
+    - B., U.
+    - U. B.
+    birthdate: 1871
+    deathdate: 1913
+    gutenberg_agent_id: '6621'
+    url: http://www.gutenberg.org/2009/agents/6621
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lindman, Volmar
+    alias: Lindman, Voldemar
+    birthdate: 1861
+    deathdate: 1939
+    gutenberg_agent_id: '42601'
+    url: http://www.gutenberg.org/2009/agents/42601
+description: ''
+gutenberg_issued: '2014-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45726'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Historical fiction'
+title: 'Linnamäen taru; Kaksi yötä: Kaksi historiallista kertomusta'
+url: http://www.gutenberg.org/ebooks/45726
